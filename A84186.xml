@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and humble remonstrance touching the late conflict of armies in and neer the county of Pembrooke; and the present condition of the harbour of Milford. Presented to the Honourable Committee of the two united kingdomes, England and Scotland, by such as were very lately resident in the said county. Together with a word of remembrance and advice, seasonably they hope, directed to the committee of the said county, and mayor of Penbrooke [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84186</idno>
+            <idno type="STC">Wing E3599</idno>
+            <idno type="STC">Thomason E285_16</idno>
+            <idno type="STC">ESTC R200071</idno>
+            <idno type="EEBO-CITATION">99860875</idno>
+            <idno type="PROQUEST">99860875</idno>
+            <idno type="VID">113002</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113002)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E285[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and humble remonstrance touching the late conflict of armies in and neer the county of Pembrooke; and the present condition of the harbour of Milford. Presented to the Honourable Committee of the two united kingdomes, England and Scotland, by such as were very lately resident in the said county. Together with a word of remembrance and advice, seasonably they hope, directed to the committee of the said county, and mayor of Penbrooke [sic].</title>
+                  <author>England and Wales. Commissioners of Both Kingdoms.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. M.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Pembrokeshire (Wales) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113002:1" rendition="simple:additions"/>
+            <p>AN EXACT AND Humble Remonſtrance TOUCHING The late Conflict of <hi>Armies</hi> in and neer the County of PEMBROOKE; and the pre<g ref="char:EOLhyphen"/>ſent condition of the Harbour of MILFORD.</p>
+            <p>Preſented to the Honourable Com<g ref="char:EOLhyphen"/>mittee of the two United Kingdomes, England and Scotland, by ſuch as were very lately reſident in the ſaid <hi>County.</hi>
+            </p>
+            <p>Together with a word of Remembrance and Advice, ſeaſonably they hope, directed to the Committee of the ſaid County, and Mayor of <hi>Penbrooke.</hi>
+            </p>
+            <p>London, Printed by <hi>J. M.</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113002:2"/>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>IT may be thy curious eye will not be ſatisfied with Generall Relations, and if we deſcend to particulars, there may be ſome injury done to <hi>Truth</hi> againſt our will; and it were great pitty ſo rare a Grace ſhould receive the leaſt blemiſh by Friends, ſeeing ſhe is ſo oft-times wronged both by the ignorant and malicious Enemy. If we ſhould take on us to tell thee how many were taken, and how many ſlaine, we might ſay, we miſſe about <hi>300.</hi> and ſpeak our thoughts, and yet not punctually (it may be ſuitable) to the verity of the matter. This I would have thee note, That this unhappy claſhing hapned not many dayes after valiant <hi>Crumwell</hi> took Heathen Sir <hi>Henry Vaughan</hi> Colonell and Welchman, with all his Bare—Foot going to Ox<g ref="char:EOLhyphen"/>ford. If thou wilt promiſe to be candid in thy conſtruction, thou ſhalt have once more other matters come to thy hand, if God will, very ſhortly. It is yet but Low-water at <hi>Milford,</hi> as ſoon as it it Halfe-flood, our truſty <hi>Mercury,</hi> that loves not to talke ſo large as others, will hoyſe up ſaile and bring thee true intelli<g ref="char:EOLhyphen"/>gence, and very probably, pleaſing too, if thou be not a blood-thir<g ref="char:EOLhyphen"/>ſty <hi>Iriſh-man,</hi> or his baſe <hi>Engliſh</hi> confederate:</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="narration">
+            <pb n="3" facs="tcp:113002:2"/>
+            <head>TO The Honourable Committee of the tvvo united Kingdomes of ENGLAND and SCOTLAND. A true Narration of the preſent Condition of the County of PEMBROOKE and Army there, together with the Harbour of MILFORD, exhibited by ſuch of the ſaid County, as have been eye witneſſes, and have Solemnly Cove<g ref="char:EOLhyphen"/>nanted with God, to advance to their utmoſt his glorious Cauſe, now managed by the two Houſes of PARLIAMENT.</head>
+            <p>WHo ſadly Remonſtrate to your Honours, That when it pleaſed God to give a great bleſſing to the ſaid County, not onely plentifully to caſt off, but alſo for a good while to be nouriſhed, and miraculouſly to be preſerved by his great power and providence, raiſing them ſo beyond all probabilities, from a handful of naked men to become a pre<g ref="char:EOLhyphen"/>ty conſiderable body of armed men; the reſolved Comman<g ref="char:EOLhyphen"/>ders and Worthies there, for diſcharge of their faithfulneſſe in ſo great a Truſt, having a tender eye alſo to the Exonerating and eaſing of a Country almoſt worn out by the pillaging and oppreſſion of the Enemie, and neceſſary Quarter of friends; put on a reſolution, and marched out of their own County to <hi>Cardigan</hi> where after they had poſſeſ<g ref="char:EOLhyphen"/>ſed
+<pb n="4" facs="tcp:113002:3"/>themſelves of the ſaid Town and Caſtle, and Indeed wonderfully releeving the ſaid Caſtle afterwards, when it was ſtrongly beſieged by Generall <hi>Gerrard,</hi> they beſieged the Caſtle of <hi>Emelyn</hi> about ſix miles diſtant from <hi>Cardi<g ref="char:EOLhyphen"/>gan,</hi> being the enemies next and onely Garriſon in that Quarter, where (after they had laid neer a fortnight) upon the 27. day of <hi>Aprill</hi> laſt, being the Lords day about ſix of the clock in the morning, there came a very ſtrong party of the enemies horſe from <hi>England,</hi> beſides other foot ve<g ref="char:EOLhyphen"/>ry numerous; who ſuddenly and ſecretly fell upon our men; flew and took moſt of our beſt foot Companies, beſides ma<g ref="char:EOLhyphen"/>ny horſe, drave the reſt into their Garriſons, being about 30. miles remote from the place of their defeate; and forth<g ref="char:EOLhyphen"/>with Advanced into the County of <hi>Pembrooke,</hi> faced the Town of <hi>Haverford West,</hi> and ſommond it. The Souldi<g ref="char:EOLhyphen"/>ers no ſooner quit the ſaid Town, by reaſon of the openeſſe of it, and that they might the better preſerve the other Gar<g ref="char:EOLhyphen"/>riſons of <hi>Penbrooke</hi> and <hi>Tenby,</hi> being far mote ſtrong and conſiderable, but the Inhabitants were conſtrained to ſur<g ref="char:EOLhyphen"/>render it upon very ſlender Quarter, there they ceaze upon much of our Ammunition and Armes, impriſon, plunder, and abuſe the well-affected Townſmen; range every where about the Country, pillage and deſtroy that which ſhould be the preſent and future livelihood of an Army; and have given us a ſure teſtimony, that they will leave nothing undone, that miſchiefe and violence can invent againſt a diſtreſſed County. This done, they drew all their forces towards the other two Garriſons of <hi>Pembrooke</hi> and <hi>Tenby,</hi> and are very confident either to over-maſter them, or in fine to diſtreſſe them till they yeeld: Notwithſtanding the <hi>Major Generall,</hi> Mayor of <hi>Pembrook,</hi> and reſolute Com<g ref="char:EOLhyphen"/>manders there, have firmely by Gods bleſſing, determined to ſtand to their truſt, and reſolve rather Honourably to loſe their lives, together with their ſaid Townes and Garri<g ref="char:EOLhyphen"/>ſons
+<pb n="5" facs="tcp:113002:3"/>then baſely, by yeelding, betray them with their Reli<g ref="char:EOLhyphen"/>gion and Liberties.</p>
+            <p>They further make known to your Honours the moſt dangerous condition of the Harbour of <hi>Milford,</hi> which the Enemie doubts not to block up, by planting Great Ornan<g ref="char:EOLhyphen"/>ces to keep out ſuch ſhipping as might relieve the Town and Caſtle of <hi>Pembrooke,</hi> and this very probably they will ſpeedily do, if a timely expedient be not found out to pre<g ref="char:EOLhyphen"/>vent them.</p>
+            <p>It were but raſhneſſe and indiſcretion in them to inti<g ref="char:EOLhyphen"/>mate the dangerous conſequence of a Delay, as of other things ſo well known to your Honours; The publike im<g ref="char:EOLhyphen"/>portance of the ſaid Haven, being the onely harbour to friend between <hi>Plymouth</hi> and <hi>Leverpool,</hi> bloody <hi>Irelands</hi> greateſt curb and terrour; the Marriners ſecurity, if preſer<g ref="char:EOLhyphen"/>ved: nay, they are verily perſwaded, and ſo are all that know it, that there is not one place in <hi>England</hi> more conſi<g ref="char:EOLhyphen"/>derable, <hi>Conſideratis conſiderandis,</hi> then that; though ſome ignorantly (we hope not maliciouſly) to the great prejudice of the ſtate do ſlight it. They preſume no farther but hum<g ref="char:EOLhyphen"/>bly ſubmit themſelves to your Lordſhips, and from a blee<g ref="char:EOLhyphen"/>ding and moſt tender heart, they do commend the condition of the publick, and that place, together with their own ſad eſtate and condition to the <hi>Grace</hi> and <hi>Mercy</hi> of a good God and the known Wiſdome of this Honourable Committee, for their more ſpeedy reliefe.</p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:113002:4"/>
+            <head>TO The Committee eſtabliſhed by Par<g ref="char:EOLhyphen"/>liament, for the County of PEMBROOK.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IT is not unknown unto moſt of you, who they were that very lately departed from your Country and Harbour of <hi>Milford.</hi> And albeit they had but ſmall incouragement to remain there; yet now, by Gods Providence, being ſafely arived here, (a place of greater en<g ref="char:EOLhyphen"/>largement and love.) They cannot chooſe but remember you, and in their remembrance, (though they never tread on your ground again) to endeavour your future weal and happineſſe. They cannot but be ſenſible how Offices and Officers in this kind have been intreated and rewarded; namely, with cruelty and contempt for love and curteſie, (ſome if they had Grace would bluſh at the conceit.) However it now falls out, that water ſhall never be able to quench the flames of publick <hi>Affection</hi> and <hi>De<g ref="char:EOLhyphen"/>ſires.</hi> They humbly and earneſtly crave of you, (and that in the bowels of <hi>Jeſus Chriſt</hi>) that in matters of ſuch pub<g ref="char:EOLhyphen"/>lick conſequence you lay by, and caſt away all ſiniſter and by ends of your own <hi>ſelfiſhnes</hi> of all ſorts, which already have been your undoings, and have proved unto you more banefull, then the Malice of your moſt <hi>Malignant Enemy:</hi> ſuch as have contracted on many of you a great <hi>Odium</hi> in the minds of many honeſt men, and have rendred you very meanly ſpirited in good men opinions and judgements. Retention of old private <hi>Star-chamber</hi> and <hi>Ludlow-grudges.</hi> Partiality where conſcience and Equity ſhould beare ſway. Coveteouſneſſe working by oppreſſion on the poor
+<pb n="7" facs="tcp:113002:4"/>undone-<hi>Commons,</hi> reſerving your old corne for the <hi>Enemy,</hi> or at beſt for the <hi>Vermine;</hi> when your underlings and tenants in the mean time are ground to powder; having not corn enough left for the Mill, to ſtop the mouthes and refreſh the bowels of their <hi>crying children:</hi> beſides the diſ<g ref="char:EOLhyphen"/>couragement of thoſe <hi>diſheartned Soulders,</hi> that have ha<g ref="char:EOLhyphen"/>zarded, nay loſt, their <hi>own</hi> lives to ſave yours. Gentlemen, I pray give us leave to tell you in love, and tender affection (for we regard not <hi>Atheſticall ſpurnings.</hi>) This hath made a loud cry heaven-ward, and this together with that Epide<g ref="char:EOLhyphen"/>micall vice called <hi>Exceſſe,</hi> and that Coroding diſeaſe cal<g ref="char:EOLhyphen"/>led <hi>Malice,</hi> and that pleaſing ſin called <hi>Contempt</hi> and <hi>abuſe</hi> of <hi>Gods Miniſters,</hi> was the diſſolution and rout of that part of your Army, and diſcomfiture of your men.</p>
+            <p>The <hi>theeves</hi> that ſtole away your Cattle, plundred your houſes, betrayed the perſons of ſome of you into the hands of thoſe that hate them: and ſurely if you bottle not up many teares to extinguiſh and quench theſe flames of <hi>Gods wrath</hi> and juſt diſpleaſure, it will conſume further, till it hath conſumed all, <hi>diſsolved gates of iron and walls of braſſe.</hi> Take therefore this courſe, uſe.this Method. <hi>A Jove Prin<g ref="char:EOLhyphen"/>cipium.</hi> Begin with God and then no doubt but he will go forth with your Army; nay, he will recruit and diſcipline the ſame, and make you again gloriouſly victorious over <hi>thoſe degenerate Engliſh,</hi> and <hi>Egyptian Welſh,</hi> that now en<g ref="char:EOLhyphen"/>compaſſe you, and are confederate with the <hi>bloody Iriſh</hi> a<g ref="char:EOLhyphen"/>gainſt you: As for us we confidently hope (and we have an aſſured perſwaſion) that the enemie is neer (or at leaſt not far off) his fall, for that he is now exalted ſo high in pride and preſumption. Turn over a new leaf then, and get but the Maſter head of your corrupt <hi>Affections,</hi> in any good meaſure, and it will not be long ere you be again Maſters of the field, and prevalent in your undertakings.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>
+                     <hi>May</hi> 24. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:113002:5"/>
+            <head>To Mr. JOHN POYER the moſt Vigilant Mayor of the Tovvne of Pembroke.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>LEt it not trouble your minde to conjecture who it is that thus put you in the Preſſe, it may ſuffice that there is a <hi>hand</hi> in this publica<g ref="char:EOLhyphen"/>tion that hath but little cauſe to be partiall in this ſenſe, or to ſigne any thing <hi>in your praiſe,</hi> did not worth and your faithfull ſervice to the State call for and command it. <hi>Private ſpirits are odious in publick</hi> times. Sir, Goe on in your wonted conſtancy, and the Lord proſper you; only take this friendly word of counſell, <hi>Love them that love GOD,</hi> and cleave cloſe to him your ſelfe; get first acquaintance with him, and renew it <hi>by hearing the Word and Prayer,</hi> and walk on with him by a daily exerciſe of piety; <hi>this doe,</hi> I ſay, <hi>and proſper.</hi> There will never want a party to aſſiſt you. If all ſhould faile, God hath an <hi>Army of Flyes and Lice</hi> to deſtroy his Enemies like the <hi>Egyptians.</hi> As for us we ſhall not be wanting to put up the moſt effectuall prayers we are able for you all; That ſuch as are unſetled may be eſtabliſhed, that ſuch as are <hi>hollow</hi> may have that vacuity filled up with <hi>ſubſtance and reali<g ref="char:EOLhyphen"/>ties,</hi> that ſuch as are deſcreet in their moderate and cold expreſſions in theſe times, may be made either <hi>hot</hi> or <hi>cold,</hi> or <hi>ſpued out:</hi> That ſuch as would now be <hi>ſavers</hi> may be <hi>looſers,</hi> and ſuch as will be <hi>looſers</hi> may be <hi>ſavers;</hi> That ſuch as are <hi>diſtreſſed</hi> may be <hi>comforted,</hi> and <hi>ſtraitned Garriſons enlarged,</hi> if they deſerve it. Theſe are our votes.</p>
+            <closer>
+               <signed>G.F. A.G. V.S.</signed>
+               <date>
+                  <hi>24 Maij 1645.</hi>
+               </date>
+               <dateline>Jmprimatur <hi>Gilb. Mabbot,</hi> Deputat. <hi>Joh. Ruſhworth.</hi>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
